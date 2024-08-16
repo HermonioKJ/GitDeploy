@@ -26,7 +26,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Testing</h1>
+      <h1>Lmao this is a push</h1>
       <h2>Sign in</h2>
       <input placeholder="Username"
       value={newUsername}

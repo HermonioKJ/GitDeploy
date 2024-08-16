@@ -1,3 +1,5 @@
-export default function SignInRoute () {
-    return <div>Sign in Route</div>;
+import { SigninForm } from "@/components/forms/SigninForm";
+
+export default function SingInRoute() {
+  return <SigninForm />;
 }
